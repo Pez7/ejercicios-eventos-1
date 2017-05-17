@@ -1,0 +1,19 @@
+
+html{ 
+	background-image: url(../img/encabezado.jpg);
+	background-color: #0B0C05;
+    color: whitesmoke;
+	font-family: 'Open Sans', sans-serif;  
+	margin: 0; 
+	padding: 0;
+	}
+p { 
+	margin-top: 0; 
+	text-align: center;
+  }
+
+#load{
+	text-align: center;
+}  
+
+
